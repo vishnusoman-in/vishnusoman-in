@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishnusoman-in
 - 👀 I’m interested in App & Web development , iot , embedded systems , robotics
 - 🌱 I’m currently working App development and learning ML.
-- 💞️ I’m looking to collaborate on web development and embedded
+- 💞️ I’m currently working on my startup project.
 - 📫 How to reach me : vishnusoman.pro@gmail.com
 
 <!---
